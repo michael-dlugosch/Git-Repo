@@ -1,3 +1,3 @@
 # My great thesis
 
-Author: Michael Dlugosch
+Author: Michael A. Dlugosch
